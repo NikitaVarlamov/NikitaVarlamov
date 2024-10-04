@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h2 align="left">Привет 👋 Меня зовут Никита!</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -14,13 +10,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">💭 Обо мне</h2>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ3aTMxcnNnMjd0dXVtbXc5djJ3MGUxbmNpeml1NXhlZWl0ZnB2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.webp"  />
 
@@ -57,8 +49,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaVarlamov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaVarlamov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikitaVarlamov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaVarlamov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
