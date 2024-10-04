@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ3aTMxcnNnMjd0dXVtbXc5djJ3MGUxbmNpeml1NXhlZWl0ZnB2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.webp"  />
+
+###
+
 <h2 align="center">Привет 👋 Меня зовут Никита!</h2>
 
 ###
@@ -11,12 +17,6 @@
 ###
 
 <h2 align="left">💭 Обо мне</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ3aTMxcnNnMjd0dXVtbXc5djJ3MGUxbmNpeml1NXhlZWl0ZnB2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.webp"  />
 
 ###
 
